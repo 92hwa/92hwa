@@ -1,6 +1,6 @@
 <div align='center'>
 
-[![Today](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2F92hwa%2F?color=blue&label=Today&size=small)](https://myhits.vercel.app)
+[![Today](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2F92hwa%2F?color=red&label=Today&size=small)](https://myhits.vercel.app)
 
 </div>
 
@@ -15,28 +15,28 @@
 
 <br/>
 
-<h3>EDUCATION</h3>
+<h3>EDUCATIONAL BACKGROUND</h3>
 
-* <b>Bachelors Degree in Computer Engineering</b>, Mar 2011 ~ Feb 2015
-* <b>Masters Degree in Computer Science and Engineering</b>, 
+* Bachelors Degree in Computer Engineering, Mar 2011 ~ Feb 2015
+* Masters Degree in Computer Science and Engineering, Jun 2021 ~ Feb 2024
 
 <br/>
 
-<h3>EXPERIENCES</h3>
+<h3>PROFESSIONAL EXPERIENCES</h3>
 
 * <b>Associate Engineer</b>, Sept 2024 ~ Dec 2024
 * <b>Graduate Researcher</b>, Jun 2021 ~ Feb 2024
-* <b>IT Solution Sales Representative</b> (Full-time), Jan 2018 ~ June 2020
-* <b>AI Project Assistant</b> (Contract), Sept 2016 ~ Nov 2016
-* <b>Software Technical Support Engineer</b>, Jul 2015 ~ Oct 2015
+* <b>IT Solution Sales Representative</b>, Jan 2018 ~ June 2020
+* <b>AI Project Assistant</b>, Sept 2016 ~ Nov 2016
+* <b>Technical Support Engineer</b>, Jul 2015 ~ Oct 2015
 
 <br/>
 
 <h3>CERTIFICATES</h3>
 
-* <b>Software Education Instructor Level 1</b>, Human Resources Development Service of Korea (HRD Korea), Aug 2025
-* <b>SQLD</b>, Korea Data Agency (K-DATA), Sept 2024
-* <b>Secretarial Administrator Level 1</b>, Korea Chamber of Commerce and Industry (KCCI), May 2019
+* <b>Software Education Instructor Level 1</b>, HRD Korea, Aug 2025
+* <b>SQLD</b>, K-DATA, Sept 2024
+* <b>Secretarial Administrator Level 1</b>, KCCI, May 2019
 
 </div> 
 
