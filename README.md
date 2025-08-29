@@ -11,7 +11,7 @@
 <h3>INTRODUCTION</h3>
 
 * Studied in Computer Science and Engineering for 6 years
-* IT Solution Sales Experience for 3 years
+* IT Solution Sales Representative for 3 years
 
 <br/>
 
@@ -24,6 +24,7 @@
 
 <h3>PROFESSIONAL EXPERIENCES</h3>
 
+* <b>Software Developer</b>, Sept 2025 ~ Now
 * <b>Associate Engineer</b>, Sept 2024 ~ Dec 2024
 * <b>Graduate Researcher</b>, Jun 2021 ~ Feb 2024
 * <b>IT Solution Sales Representative</b>, Jan 2018 ~ June 2020
