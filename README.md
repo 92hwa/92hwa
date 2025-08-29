@@ -1,6 +1,8 @@
-<div align='center'>
+<h1>Welcome to my GitHub 🥰</h1>
 
-<h3>Welcome to my GitHub 🥰</h3>
+<br/>
+
+<div align='center'>
 
 <br/>
 
