@@ -1,3 +1,7 @@
+<h3>Hi there! 👋 Welcome to my GitHub</h3>
+
+<br/>
+
 <div align='center'>
 
 [![Today](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2F92hwa%2F?color=red&label=Today&size=small)](https://myhits.vercel.app)
@@ -44,9 +48,6 @@
 <br/>
 
 <div align='center'>
-
-Welcome to my GitHub. <br/>
-Feel free to contact me. <br/><br/>
 
 © 2025. 92hwa. All rights reserved.
 
