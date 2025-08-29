@@ -1,8 +1,8 @@
-<h3>Hi there! 👋 Welcome to my GitHub</h3>
+<div align='center'>
+
+<h1>Welcome to my GitHub 🥰</h1>
 
 <br/>
-
-<div align='center'>
 
 [![Today](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2F92hwa%2F?color=red&label=Today&size=small)](https://myhits.vercel.app)
 
