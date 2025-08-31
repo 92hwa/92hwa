@@ -1,5 +1,13 @@
 # Hi there 👋
 
+<br/>
+
+<div align='center'>
+
+[![Today](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2F92hwa?color=purple&label=Today&size=small)](https://myhits.vercel.app)
+
+</div>
+
 ### SUMMARY
 Computer Science graduate with a Master's degree in Computer Science and Engineering. Hands-on experience in deep learning experiments for object detection and image generation, as well as practical exposure to medical device image processing. Previous career background in IT solution sales, with strong communication and problem-solving skills.
 
