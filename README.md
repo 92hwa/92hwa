@@ -1,51 +1,43 @@
-<h1>Hi there 👋</h1>
+# Hi there 👋
+
+### SUMMARY
+Computer Science graduate with a Master's degree in Computer Science and Engineering. Hands-on experience in deep learning experiments for object detection and image generation, as well as practical exposure to medical device image processing. Previous career background in IT solution sales, with strong communication and problem-solving skills.
 
 <br/>
 
-<div align='center'>
+### EDUCATIONAL BACKGROUND
+
+- M.S. in Computer Science and Engineering
+- B.S. in Computer Engineering
 
 <br/>
 
-[![Today](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2F92hwa%2F?color=red&label=Today&size=small)](https://myhits.vercel.app)
+### PROFESSIONAL EXPERIENCE
 
-</div>
-
-<br/>
-
-<div>
-
-<h3>INTRODUCTION</h3>
-
-* Studied in Computer Science and Engineering for 6 years
-* IT Solution Sales Representative for 3 years
+- Software Developer, Sept 2025 – Present  
+- Associate Engineer, Sept 2024 – Dec 2024  
+- Graduate Researcher, Jun 2021 – Feb 2024  
+- IT Solution Sales Representative, Jan 2018 – Jun 2020  
+- Project Assistant, Sept 2016 – Nov 2019  
+- Technical Support Engineer, Jul 2015 – Oct 2015  
 
 <br/>
 
-<h3>EDUCATIONAL BACKGROUND</h3>
+### SKILLS
 
-* Bachelors Degree in Computer Engineering, Mar 2011 ~ Feb 2015
-* Masters Degree in Computer Science and Engineering, Jun 2021 ~ Feb 2024
-
-<br/>
-
-<h3>PROFESSIONAL EXPERIENCES</h3>
-
-* <b>Software Developer</b>, Sept 2025 ~ Now
-* <b>Associate Engineer</b>, Sept 2024 ~ Dec 2024
-* <b>Graduate Researcher</b>, Jun 2021 ~ Feb 2024
-* <b>IT Solution Sales Representative</b>, Jan 2018 ~ June 2020
-* <b>AI Project Assistant</b>, Sept 2016 ~ Nov 2016
-* <b>Technical Support Engineer</b>, Jul 2015 ~ Oct 2015
+- Programming Languages: Python, Java, JavaScript
+- Frameworks & Libraries: PyTorch, TensorFlow, OpenCV, React.js
+- Tools & Platforms: Git, Linux
+- Specialization: Image Processing, Object Detection, Image Generation Models
+- Soft Skills: Technical communication, Cross-functional collaboration, Problem-solving  
 
 <br/>
 
-<h3>CERTIFICATES</h3>
+### CERTIFICATES
 
-* <b>Software Education Instructor Level 1</b>, HRD Korea, Aug 2025
-* <b>SQLD</b>, K-DATA, Sept 2024
-* <b>Secretarial Administrator Level 1</b>, KCCI, May 2019
-
-</div> 
+- Software Education Instructor Level 1, HRD Korea  
+- SQL Developer (SQLD), K-DATA  
+- Secretarial Administrator Level 1, KCCI  
 
 <br/>
 
@@ -54,17 +46,3 @@
 © 2025. 92hwa. All rights reserved.
 
 </div>
-<!--
-**92hwa/92hwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
